@@ -1,4 +1,4 @@
-React TV Maze
+#Movie-booking-app
 
 This is a two-screen React JS application that uses the TV Maze API to display a list of TV shows and allow users to book tickets for selected shows. The application has a basic UI with HTML and CSS styling.
 Getting Started
